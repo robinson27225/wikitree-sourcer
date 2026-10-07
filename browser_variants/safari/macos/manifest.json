@@ -118,10 +118,12 @@
     "*://arcinsys.hessen.de/*",
     "*://books.google.com/books*",
     "*://collections-server.arolsen-archives.org/*",
+    "*://collections.archives.govt.nz/*",
     "*://collections.arolsen-archives.org/*",
     "*://data.matricula-online.eu/*",
     "*://des.genealogy.net/*",
     "*://dfg-viewer.de/*",
+    "*://digitalarchives.wa.gov/*",
     "*://digitales-archiv.erzbistum-muenchen.de/*",
     "*://ecpp.ucr.edu/*",
     "*://gedbas.genealogy.net/*",
@@ -149,7 +151,8 @@
     "*://www.gro.gov.uk/gro/content/certificates/*",
     "*://www.landesarchiv-nrw.de/*",
     "*://www.scotlandspeople.gov.uk/*",
-    "*://www.szukajwarchiwach.gov.pl/*"
+    "*://www.szukajwarchiwach.gov.pl/*",
+    "*://www.youtube.com/*"
   ],
   "commands": {
     "_execute_action": {
